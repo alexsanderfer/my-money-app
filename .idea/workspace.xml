@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2478b74f-4294-48c7-9f75-931d3394ed7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/my-money-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/billingCycle/billingCycle.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/common/layout/grid.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/common/layout/row.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/common/template/content.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/common/template/contentHeader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/common/template/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/common/template/dependecies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/common/template/footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/common/template/header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/common/template/menu.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/common/template/menuItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/common/template/menuTree.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/common/template/sideBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/common/widget/valueBox.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/dashboard/dashboard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/dashboard/dashboardActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/dashboard/dashboardReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/reducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/routes.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/main/app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/app.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="afdcccad-d8a1-4e5b-ba77-6f0ba6af3771" />
+        <option name="url" value="https://github.com/alexsanderfer/my-money-app.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BFkYItb4BNoRq2Ivl0lFpAnAFm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mongo&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2478b74f-4294-48c7-9f75-931d3394ed7d" name="Changes" comment="" />
+      <created>1656509285908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656509285908</updated>
+      <workItem from="1656509292859" duration="1229000" />
+      <workItem from="1656510652598" duration="1051000" />
+      <workItem from="1656513312275" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
